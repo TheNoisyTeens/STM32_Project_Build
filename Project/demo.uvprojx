@@ -610,6 +610,9 @@
         <Group>
           <GroupName>DEVICE</GroupName>
         </Group>
+        <Group>
+          <GroupName>HARDWARE</GroupName>
+        </Group>
       </Groups>
     </Target>
   </Targets>

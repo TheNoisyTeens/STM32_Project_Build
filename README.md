@@ -21,11 +21,14 @@ inc存放头文件，src存放的是源文件
 
 * USERLIB文件夹
 
-* DEVICE
+* DEVICE文件夹
 
 存放**外设**相关文件
 >如can、gpio、usart、timer等
+* HARDWARE文件夹
 
+存放**硬件**相关文件
+>如MPU陀螺仪、remoter遥控器等
 
 ———————————————————————————————————————
 >参考文章：[keil5新建STM32工程文件--实践篇手把手教学（以STM32F103为例）](http://t.csdn.cn/cSs8x)
