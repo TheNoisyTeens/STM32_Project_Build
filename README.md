@@ -27,5 +27,10 @@ inc存放头文件，src存放的是源文件
 >如can、gpio、usart、timer等
 
 
----
+———————————————————————————————————————
 >参考文章：[keil5新建STM32工程文件--实践篇手把手教学（以STM32F103为例）](http://t.csdn.cn/cSs8x)
+
+---
+**此外还要添加：**
+* Define：`STM32F427_437xx,USE_STDPERIPH_DRIVER`
+* 头文件路径
